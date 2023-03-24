@@ -1,14 +1,14 @@
 # Bienvenidos a Link Rotator
 
-Este pequeño proyecto está hecho para que los Portfolios de YoProgramo alojados no se duerman y, siempre, siempre estén disponibles de cara a un potencial Cliente, Empleador o para quienes los tienen que corregir...
+Este pequeño proyecto está hecho para que los Portfolios de YoProgramo no se "duerman" y, siempre, siempre estén disponibles de cara a un potencial Cliente, Empleador o para quienes los tienen que corregir...
 
 La consigna es: No dejes que se caiga tu enlace!!!
 
 IMPORTANTE: 
 <br>
-Este programa funciona, por el momento, únicamente en Windows y Google Chrome. 
+Este programa funciona, por el momento, únicamente en Windows y con Google Chrome. 
 
-Está permitido hacer forks y modificaciones para otros S.O, Navegadores y se agradece mucho avisar para sumarlos a este Readme.md de manera que todos los que quieran puedan colaborar para que los Portfolios se mantengan activos.
+Está permitido hacer forks y modificaciones para otros S.O., navegadores y, se agradece mucho, avisar para sumarlos a este Readme.md de manera que todos los que quieran puedan colaborar para que los Portfolios se mantengan activos.
 
 ## Instalación
 
@@ -26,11 +26,11 @@ Está permitido hacer forks y modificaciones para otros S.O, Navegadores y se ag
 
 NOTA: 
 <br>
-Se va abrir de forma automática una página del navegador Chrome y va a recorrer en bucle el listado de Portfolios/Páginas que contiene.
+Se va abrir de forma automática una página del navegador Chrome con una leyenda que avisa que un software automatizado controla la página y va a recorrer en bucle el listado de Portfolios/Páginas que contiene el archivo pages.py.
 
 VISUALIZACIÓN:
 <br>
-Tanto cmd como la página que recorre los Portfolios pueden quedar minimizadas y van a seguir trabajando en todo momento. Se puede ver el recorrido en el listado que se muestra en cmd.
+Tanto cmd como la página del navegador que recorre los Portfolios pueden quedar minimizadas y van a seguir trabajando en todo momento. Se puede ver el recorrido en el listado que se muestra en cmd.
 
 IMPORTANTE: 
 <br>
