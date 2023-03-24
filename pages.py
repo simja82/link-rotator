@@ -4,7 +4,7 @@ from selenium import webdriver
 
 import time
 
-list = "https://proyecto-cintianecol.web.app/,https://pov-portfolio.web.app/,https://portfolio-karinsd.web.app/,https://portfolioale-17e1a.web.app/"
+list = "https://proyecto-cintianecol.web.app/,https://pov-portfolio.web.app/,https://portfolio-karinsd.web.app/,https://portfolioale-17e1a.web.app/,https://portfolio-backend-ghx4.onrender.com/"
 tab = ","
 set = 120
 list = list.split(tab)
