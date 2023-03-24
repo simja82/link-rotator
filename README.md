@@ -39,3 +39,5 @@ Todos los días hay que hacer correr los dos puntos del apartado Uso de este arc
 RECOMENDACIÓN: 
 <br>
 Periódicamente descargar el archivo pages.py y reemplazar el archivo que se tenga por el nuevo.
+
+Si se hiciera la actualización del archivo pages.py mientras está corriendo el programa en cmd debe cerrarse cmd y abrirse nuevamente para hacer correr python pages.py después de reemplazar el archivo que se tenía en primera instancia por el nuevo para que los cambios tengan efecto y el bucle se actualice.
